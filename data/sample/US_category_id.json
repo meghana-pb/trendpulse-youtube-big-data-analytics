@@ -1,0 +1,126 @@
+{
+  "kind": "youtube#videoCategoryListResponse",
+  "etag": "sample",
+  "items": [
+    {
+      "id": "1",
+      "kind": "youtube#videoCategory",
+      "snippet": {
+        "title": "Film & Animation",
+        "assignable": true
+      }
+    },
+    {
+      "id": "2",
+      "kind": "youtube#videoCategory",
+      "snippet": {
+        "title": "Autos & Vehicles",
+        "assignable": true
+      }
+    },
+    {
+      "id": "10",
+      "kind": "youtube#videoCategory",
+      "snippet": {
+        "title": "Music",
+        "assignable": true
+      }
+    },
+    {
+      "id": "15",
+      "kind": "youtube#videoCategory",
+      "snippet": {
+        "title": "Pets & Animals",
+        "assignable": true
+      }
+    },
+    {
+      "id": "17",
+      "kind": "youtube#videoCategory",
+      "snippet": {
+        "title": "Sports",
+        "assignable": true
+      }
+    },
+    {
+      "id": "19",
+      "kind": "youtube#videoCategory",
+      "snippet": {
+        "title": "Travel & Events",
+        "assignable": true
+      }
+    },
+    {
+      "id": "20",
+      "kind": "youtube#videoCategory",
+      "snippet": {
+        "title": "Gaming",
+        "assignable": true
+      }
+    },
+    {
+      "id": "22",
+      "kind": "youtube#videoCategory",
+      "snippet": {
+        "title": "People & Blogs",
+        "assignable": true
+      }
+    },
+    {
+      "id": "23",
+      "kind": "youtube#videoCategory",
+      "snippet": {
+        "title": "Comedy",
+        "assignable": true
+      }
+    },
+    {
+      "id": "24",
+      "kind": "youtube#videoCategory",
+      "snippet": {
+        "title": "Entertainment",
+        "assignable": true
+      }
+    },
+    {
+      "id": "25",
+      "kind": "youtube#videoCategory",
+      "snippet": {
+        "title": "News & Politics",
+        "assignable": true
+      }
+    },
+    {
+      "id": "26",
+      "kind": "youtube#videoCategory",
+      "snippet": {
+        "title": "Howto & Style",
+        "assignable": true
+      }
+    },
+    {
+      "id": "27",
+      "kind": "youtube#videoCategory",
+      "snippet": {
+        "title": "Education",
+        "assignable": true
+      }
+    },
+    {
+      "id": "28",
+      "kind": "youtube#videoCategory",
+      "snippet": {
+        "title": "Science & Technology",
+        "assignable": true
+      }
+    },
+    {
+      "id": "29",
+      "kind": "youtube#videoCategory",
+      "snippet": {
+        "title": "Nonprofits & Activism",
+        "assignable": true
+      }
+    }
+  ]
+}

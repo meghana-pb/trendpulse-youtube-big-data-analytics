@@ -1,0 +1,58 @@
+# ============================================================
+# TrendPulse - Professional .gitignore
+# ============================================================
+
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+
+# Node.js / Frontend
+dashboard/node_modules/
+dashboard/dist/
+dashboard/build/
+dashboard/.output/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Java / Maven / Hadoop
+**/target/
+*.class
+*.jar
+*.war
+*.ear
+.classpath
+.project
+.settings/
+.factorypath
+
+# Data & HDFS Output
+data/hdfs_fallback/
+logs/
+*.log
+
+# IDE & OS Files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
